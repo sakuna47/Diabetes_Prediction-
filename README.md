@@ -25,7 +25,7 @@ The model is trained on the **Pima Indians Diabetes Dataset**, which includes th
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/diabetes-prediction-app.git
+git clone https://github.com/sakuna47/diabetes-prediction-app.git
 cd diabetes-prediction-app
 pip install -r requirements.txt
 ```
